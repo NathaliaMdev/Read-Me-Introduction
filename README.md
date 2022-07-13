@@ -1,6 +1,6 @@
 
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/NathaliaMdev/Read-Me-Introduction/blob/main/LICENCE) 
+[![NPM](https://img.shields.io/badge/About-Me-pink)](https://github.com/NathaliaMdev/Read-Me-Introduction/blob/main/LICENCE) 
 
 # Sobre o projeto
 
